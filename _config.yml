@@ -24,7 +24,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2014082c-e116-4a3b-8b27-ab2c90f923ce.jpg
 title: Branding + Marketing Communications
 description: Think outside the cliche
 purpose: []
