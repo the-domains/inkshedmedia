@@ -1,19 +1,4 @@
-name: Inkshedmedia
-favicon: null
-layout_spectrum: 0.5216673200484365
 typography_spectrum: 0.4189859798643738
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5009907139465213
   saturation: 0.6838286118581891
   rhythmicContrast: 0.45988347427919507
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5216673200484365
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Inkshedmedia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Think outside the Cliche
 purpose: []
